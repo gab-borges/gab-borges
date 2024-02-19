@@ -4,7 +4,7 @@ I am Gabriel Borges, a brazilian Computer Engineering student who likes to code.
 
 🌱 I'm currently learning more about Data Structures and Algorithms, as I have high interest in Competitive Programming.<br><br>
 
-My repositories here in Github are still very simple, but I'm looking forward to make more complex stuff in the future, as my knowledge grows.
+My repositories here in Github are still very simple, but I'm looking forward to make more complex stuff in the future.
 
 #### Languages
 ![c++](https://img.shields.io/badge/C++-0394fc?style=for-the-badge&logo=c%2B%2B&logoColor=white)
