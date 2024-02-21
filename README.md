@@ -6,7 +6,7 @@ I am Gabriel Borges, a brazilian Computer Engineering student who likes to code.
 
 My repositories here in Github are still very simple, but I'm looking forward to make more complex stuff in the future.
 
-#### Languages
+#### Known Languages
 ![c++](https://img.shields.io/badge/C++-0394fc?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![python](https://img.shields.io/badge/Python-1430ba?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-fcf003?style=for-the-badge&logo=javascript&logoColor=black)
