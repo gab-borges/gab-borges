@@ -10,7 +10,7 @@ For me, programming is almost like "the next step of maths". It's a freeway for 
 
 🌱 Currently, I'm focused on enhancing my skills to perform well in competitive programming contests, since I've already taken part of some and liked a lot.<br>
 
-🔭 For the future, I plan to enrich my career by taking part of some open-source project or do an internship to get real-world experience.<br>
+🔭 For the future, I plan to enrich my career by participating in an open-source project or by doing an internship to get real-world experience.<br>
 
 Oh, and I use Arch btw
 
