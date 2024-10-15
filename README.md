@@ -14,6 +14,9 @@ Oh, and I use Arch btw
 ![c++](https://img.shields.io/badge/C++-0394fc?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![python](https://img.shields.io/badge/Python-1430ba?style=for-the-badge&logo=python&logoColor=white)
 ![c](https://img.shields.io/badge/C-74ddfc?style=for-the-badge&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+|
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
