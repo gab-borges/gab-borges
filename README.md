@@ -4,9 +4,9 @@ I am Gabriel Borges, a second-year Computer Engineering student at UTFPR (Federa
 
 I'm a guy who really enjoys technology and cracking hard problems.<br>
 
-🌱 Currently, I'm focused on enhancing my skills to perform well in competitive programming contests, since I've already taken part of some and liked a lot.<br>
+🌱 Currently, I'm focused on enhancing my skills in Data Structures and Object-Oriented Programming.<br>
 
-🔭 For the future, I plan to enrich my career by participating in an open-source project or by doing an internship to get real-world experience.<br>
+🔭 For the future, I plan contribute in open-source projects.<br>
 
 Oh, and I use Arch btw
 
