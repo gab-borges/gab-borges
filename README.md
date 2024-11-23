@@ -1,14 +1,16 @@
 ## Hello there 👋
 
-I am Gabriel Borges, a second-year Computer Engineering student at UTFPR (Federal University of Technology - Paraná).<br>
+I am Gabriel Borges, a second-year **Computer Engineering** student at UTFPR (Federal University of Technology - Paraná).<br>
 
-I'm a guy who really enjoys technology and cracking hard problems.<br>
+I have a passion for technology, computers and maths.<br>
 
-🌱 Currently, I'm focused on enhancing my skills in Data Structures and Object-Oriented Programming.<br>
+🌱 Currently enhancing my skills in **Data Structures & Algorithms**, **Object-Oriented Programming** and **Web Development**.<br>
 
-🔭 For the future, I plan contribute in open-source projects.<br>
+🔭 Looking forward to contribute in open-source projects.<br>
 
-Oh, and I use Arch btw
+⚡ Motivated to use my skills to make a positive impact through technology, always open to new projects and challenges that allow me to grow and contribute in a meaningful way!<br>
+
+*Oh, and I use Arch btw*
 
 #### Technologies
 ![c++](https://img.shields.io/badge/C++-0394fc?style=for-the-badge&logo=c%2B%2B&logoColor=white)
