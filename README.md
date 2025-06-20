@@ -1,39 +1,40 @@
-## Hello there 👋
+# 👋 Hello! I'm Gabriel Borges
 
-I am Gabriel Borges, a second-year **Computer Engineering** student at UTFPR (Federal University of Technology - Paraná).<br>
+I'm a **Computer Engineering** student at UTFPR, passionate about **competitive programming** and **software development**, with a focus on **Data Engineering** and **fullstack development**.
 
-I have a passion for technology, computers and maths.<br>
+### 🚀 About me
 
-🌱 Currently enhancing my skills in **Data Structures & Algorithms**, **Object-Oriented Programming** and **Web Development**.<br>
+- 📚 **Computer Engineering Student** at UTFPR (2023-2028)
+- 💼 **Intern** at Driva - Data Engineering
+- 🏆 **Former Teaching Assistant** for Data Structures
+- 🧠 Strong foundation in **algebra**, **algorithms**, **calculus**, **statistics**, and **electronics**
 
-🔭 Looking forward to contribute in real world projects.<br>
+### 🛠️ Technologies & Tools
 
-⚡ Motivated to use my skills to make a positive impact through technology, always open to new projects and challenges that allow me to grow and contribute in a meaningful way!<br>
+```python
+skills = {
+    "languages": ["Python", "C++", "C", "JavaScript", "SQL"],
+    "web": ["HTML", "CSS", "Express.js"],
+    "tools": ["Git", "Linux", "PostgreSQL", "Excel", "LaTeX"],
+    "concepts": ["Algorithms", "Data Structures", "Data Engineering"]
+}
+```
 
-#### Technologies
-![c++](https://img.shields.io/badge/C++-0394fc?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![python](https://img.shields.io/badge/Python-1430ba?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![c](https://img.shields.io/badge/C-74ddfc?style=for-the-badge&logo=c&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🏆 Achievements
 
+🥇 **Gold Medal** - Brazilian Astronomy and Astronautics Olympiad 2022  
+🥈 **Silver Medal** - National Science Olympiad (Brazil) 2022  
+🎖️ **Honorable Mention** - SBC Programming Marathon 2024
 
-<!--
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-**gab-borges/gab-borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gab-borges&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-borges&layout=compact&theme=tokyonight)
+
+### 📫 Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogabrielborges/)
+
+---
+⭐ Feel free to explore my repositories and get in touch!
