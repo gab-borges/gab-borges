@@ -7,7 +7,6 @@ I'm a **Computer Engineering** student at UTFPR, passionate about **competitive 
 - 📚 **Computer Engineering Student** at UTFPR (2023-2028)
 - 💼 **Intern** at Driva - Data Engineering
 - 🏆 **Former Teaching Assistant** for Data Structures
-- 🧠 Strong foundation in **algebra**, **algorithms**, **calculus**, **statistics**, and **electronics**
 
 ### 🛠️ Technologies & Tools
 
